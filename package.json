@@ -1,0 +1,17 @@
+{
+  "name": "food-reverse-engineer",
+  "version": "0.0.1",
+  "description": "library for reverse engineering ingredients' proportions in a food based on it's nutrition data",
+  "main": "./lib",
+  "author": "Mitja Puzigaća <mitjap@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mitjap/food_reverse_engineering.git"
+  },
+  "dependencies": {
+    "genetic": "git://github.com/mitjap/genetic",
+    "random-js": "^1.0.4",
+    "sylvester": "0.0.21",
+    "underscore": "^1.7.0"
+  }
+}
